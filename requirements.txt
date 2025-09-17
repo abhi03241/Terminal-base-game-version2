@@ -1,0 +1,2 @@
+# Requirements for Terminal Multiplayer Snake Game
+windows-curses; platform_system=="Windows"
